@@ -5,7 +5,7 @@
 
                     <div class="carousel-item active">
                         <div class="card text-bg-dark rounded-0">
-                            <img src="https://kallasa.000webhostapp.com/Assets/img/hwnn2.png" class="card-img rounded-0" alt="...">
+                            <img src="./Assets/img/hwnn2.png" class="card-img rounded-0" alt="...">
                             <div class="card-img-overlay rounded-0 d-grid text-center flex-wrap align-content-center justify-content-center">
                                 <div class="rounded d-none d-lg-block d-md-block bg-black bg-opacity-50 px-3 py-3 mb-3">
                                 <h5 class="card-title fs-3">Você não precisa dar conta de tudo!</h5><br>
@@ -22,7 +22,7 @@
 
                     <div class="carousel-item">
                         <div class="card text-bg-dark rounded-0">
-                            <img src="https://kallasa.000webhostapp.com/Assets/img/hwnn.png" class="card-img rounded-0" alt="...">
+                            <img src="./Assets/img/hwnn.png" class="card-img rounded-0" alt="...">
                             <div class="card-img-overlay rounded-0 d-grid text-center flex-wrap align-content-center justify-content-center bg-black bg-opacity-25">
                                 <h5 class="card-title fs-3 d-none d-lg-block d-md-block">Você não precisa dar conta de tudo!</h5><br>
                                 <p class="card-text fs-4 d-none d-lg-block d-md-block">Nós estamos aqui para facilitar a sua vida e fazer a sua empresa voar.</p><br>
@@ -48,10 +48,10 @@
 
         <section class="my-partners">
             <div class="container-xxl py-3 d-flex flex-wrap justify-content-evenly shadow-sm">
-                <img class="img-fluid my-lg-0 my-md-0 my-3" src="https://kallasa.000webhostapp.com/Assets/img/partners/overwolf.png" alt="">
-                <img class="img-fluid my-lg-0 my-md-0 my-3" src="https://kallasa.000webhostapp.com/Assets/img/partners/ugc.png" alt="">
-                <img class="img-fluid my-lg-0 my-md-0 my-3" src="https://kallasa.000webhostapp.com/Assets/img/partners/twitch.png" alt="">
-                <img class="img-fluid my-lg-0 my-md-0 my-3" src="https://kallasa.000webhostapp.com/Assets/img/partners/logitech.png" alt="">
+                <img class="img-fluid my-lg-0 my-md-0 my-3" src="./Assets/img/partners/overwolf.png" alt="">
+                <img class="img-fluid my-lg-0 my-md-0 my-3" src="./Assets/img/partners/ugc.png" alt="">
+                <img class="img-fluid my-lg-0 my-md-0 my-3" src="./Assets/img/partners/twitch.png" alt="">
+                <img class="img-fluid my-lg-0 my-md-0 my-3" src="./Assets/img/partners/logitech.png" alt="">
             </div>
         </section>
 
@@ -60,21 +60,21 @@
             <div class="container-lg py-3 mt-5 d-flex flex-row flex-wrap justify-content-around">
                 <div class="card text-center pt-5 pb-3 my-lg-0 my-md-0 my-3 shadow-sm" style="width: 18rem;">
                     <div class="card-body">
-                        <img class="img-fluid" src="https://kallasa.000webhostapp.com/Assets/img/icons/Analytics.png" style="width: 100px;" alt="">
+                        <img class="img-fluid" src="./Assets/img/icons/Analytics.png" style="width: 100px;" alt="">
                         <h5 class="card-title mt-3">Analytics</h5>
                     </div>
                 </div>
 
                 <div class="card text-center pt-5 pb-3 my-lg-0 my-md-0 my-3 shadow-sm" style="width: 18rem;">
                     <div class="card-body">
-                        <img class="img-fluid" src="https://kallasa.000webhostapp.com/Assets/img/icons/Prevcc.png" style="width: 100px;" alt="">
+                        <img class="img-fluid" src="./Assets/img/icons/Prevcc.png" style="width: 100px;" alt="">
                         <h5 class="card-title mt-3">Previsão do comportamento do cliente</h5>
                     </div>
                 </div>
 
                 <div class="card text-center pt-5 pb-3 my-lg-0 my-md-0 my-3 shadow-sm" style="width: 18rem;">
                     <div class="card-body">
-                        <img class="img-fluid" src="https://kallasa.000webhostapp.com/Assets/img/icons/EO.png" style="width: 100px;" alt="">
+                        <img class="img-fluid" src="./Assets/img/icons/EO.png" style="width: 100px;" alt="">
                         <h5 class="card-title mt-3">Estratégia orientada pelo ROI</h5>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <img src="https://kallasa.000webhostapp.com/Assets/img/social.jpg" class="img-fluid w-100" alt="...">
+                            <img src="./Assets/img/social.jpg" class="img-fluid w-100" alt="...">
                         </div>
                     </div>
                 </div>              
@@ -101,7 +101,7 @@
 
         <section class="employees d-flex flex-wrap justify-content-center my-5">
             <figure class="snip1218">
-                <div class="image"><img src="https://kallasa.000webhostapp.com/Assets/img/employees/berg/profile-1berg.jpg" alt="sample79"/>
+                <div class="image"><img src="./Assets/img/employees/berg/profile-1berg.jpg" alt="sample79"/>
                     <p> 
                     "I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway."
                     </p>
@@ -115,7 +115,7 @@
             
 
             <figure class="snip1218">
-                <div class="image"><img src="https://kallasa.000webhostapp.com/Assets/img/employees/Rodrigo-Hora/profile-2.jpg" alt="sample79"/>
+                <div class="image"><img src="./Assets/img/employees/Rodrigo-Hora/profile-2.jpg" alt="sample79"/>
                     <p> 
                     "I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway."
                     </p>
@@ -128,7 +128,7 @@
             </figure>
             
             <figure class="snip1218">
-                <div class="image"><img src="https://kallasa.000webhostapp.com/Assets/img/employees/fernando/profile-2nando.jpg" alt="sample79"/>
+                <div class="image"><img src="./Assets/img/employees/fernando/profile-2nando.jpg" alt="sample79"/>
                     <p> 
                     "I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway."
                     </p>
@@ -141,7 +141,7 @@
             </figure>
             
             <figure class="snip1218">
-                <div class="image"><img src="https://kallasa.000webhostapp.com/Assets/img/employees/Weslei/wesl.jpg" alt="sample79"/>
+                <div class="image"><img src="./Assets/img/employees/Weslei/wesl.jpg" alt="sample79"/>
                     <p> 
                     "I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway."
                     </p>
@@ -154,7 +154,7 @@
             </figure>
             
             <figure class="snip1218">
-                <div class="image"><img src="https://kallasa.000webhostapp.com/Assets/img/employees/Romario/romario.jpg" alt="sample79"/>
+                <div class="image"><img src="./Assets/img/employees/Romario/romario.jpg" alt="sample79"/>
                     <p> 
                     "I don't need to compromise on my principles, because they don't have the slightest bearing on what happens to me anyway."
                     </p>
